@@ -17,7 +17,7 @@ const defaultConfig = {
   ALIVE_MSG: "*Hello👋 DANUWA-MD Is Alive Now😍*", // Change alive msg from here
   OPENAI_API_KEY: "",// Add OPENAI API key here
   GEMINI_API_KEY: "AIzaSyAlA41a3Bmw5B7ZjBJ_IJJzJd8CG0vld1w", // Add Gemini API key here
-  REMOVE_BG_API_KEY:"", // Add removebg API key here
+  REMOVE_BG_API_KEY:"QmLtQvyp6EgDKrpcPkoHPiro", // Add removebg API key here
   WEATHER_API_KEY: "", // Add your weather API key here
   BOT_OWNER: "94762136979", // Replace your bot owner number here with 94(country code)
   ownerNumber: ["94762136979"], // Replace your bot owner number here (same as bot owner number)
